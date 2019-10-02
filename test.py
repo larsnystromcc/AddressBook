@@ -17,7 +17,6 @@ def output_html():
 
 ## main function
 def main():
-
     output_html()
 
 if __name__ == "__main__":
